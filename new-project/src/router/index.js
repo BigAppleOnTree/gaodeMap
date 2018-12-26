@@ -10,7 +10,7 @@ export const defaultMap = [
   },
   {
     path: '/npm',
-    name: 'NpmEveryDay',
+    name: 'Map',
     component: () => import('@/components/NpmEveryDay')
   }
 ]
